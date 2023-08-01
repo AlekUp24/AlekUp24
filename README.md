@@ -4,9 +4,11 @@
   
 ---
 
-  Hi, My name is <b>Hubert</b>. I'm RPA Deeveloper responsible for automating processes with RPA (Python, VBA, SQL, API, SAPScripting) & LowCode development (Blue Prism, Power Apps, Power Automate). 
+On daily basis I'm RPA Developer responsible for automating processes with RPA (Python, VBA, SQL, API, SAPScripting) & LowCode development (Blue Prism, Power Apps, Power Automate). 
 
-On a day-to-day basis I enjoy web development.
+In my free time I enjoy web development and explore new technologies.
+
+Feel free to contact me if you have any suggestions to my repos or ideas!
 
 ---
 
