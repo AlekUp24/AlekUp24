@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">
+    <b>My name is Hubert.</b>
+</p>
+  
+---
 
-<!--
-**AlekUp24/AlekUp24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Hi, My name is <b>Hubert</b>. I'm RPA Deeveloper responsible for automating processes with RPA (Python, VBA, SQL, API, SAPScripting) & LowCode development (Blue Prism, Power Apps, Power Automate). 
 
-Here are some ideas to get you started:
+On a day-to-day basis, I'm enjoy web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlekUp24&theme=dark)</br>
+  ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=AlekUp24&theme=dark)</br>
+  <!--- ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=MichalMalenda&layout=compact&theme=dark&locale=en)</br>
+  ![GitHub Stats](https://activity-graph.herokuapp.com/graph?username=MichalMalenda&theme=xcode&bg_color=454545)</br>
+  --->
