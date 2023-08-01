@@ -1,4 +1,4 @@
-<p align="center">
+<p>
     <b>My name is Hubert.</b>
 </p>
   
@@ -6,7 +6,7 @@
 
   Hi, My name is <b>Hubert</b>. I'm RPA Deeveloper responsible for automating processes with RPA (Python, VBA, SQL, API, SAPScripting) & LowCode development (Blue Prism, Power Apps, Power Automate). 
 
-On a day-to-day basis, I'm enjoy web development.
+On a day-to-day basis I enjoy web development.
 
 ---
 
