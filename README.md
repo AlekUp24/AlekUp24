@@ -13,6 +13,8 @@ Feel free to contact me if you have any suggestions to my repos or ideas!
 ---
 
   ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=AlekUp24&theme=dark)</br>
+
+  ![Leetcode Stats](https://leetcard.alekup24.cool/AlekUp24)
   <!--- ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=MichalMalenda&layout=compact&theme=dark&locale=en)</br>
   ![GitHub Stats](https://activity-graph.herokuapp.com/graph?username=MichalMalenda&theme=xcode&bg_color=454545)</br>
   --->
