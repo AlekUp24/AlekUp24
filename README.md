@@ -4,7 +4,7 @@
   
 ---
 
-On daily basis I'm RPA Developer responsible for automating processes with RPA (Python, VBA, SQL, API, SAPScripting) & LowCode development (Blue Prism, Power Apps, Power Automate). 
+On daily basis I'm RPA Developer responsible for automating processes (Python, VBA, SQL, API, SAPScripting) & LowCode development (Blue Prism, Power Apps, Power Automate). 
 
 In my free time I enjoy web development and explore new technologies.
 
