@@ -6,7 +6,7 @@
 
 On daily basis I'm RPA Developer responsible for automating processes (Python, VBA, SQL, API, SAPScripting) & LowCode development (Blue Prism, Power Apps, Power Automate). 
 
-In my free time I enjoy web development and explore new technologies.
+In my free time I enjoy building stuff and explore new technologies.
 
 Feel free to contact me if you have any suggestions to my repos or ideas!
 
