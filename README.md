@@ -1,18 +1,23 @@
 <p>
-    <b>My name is Hubert.</b>
+## My name is Hubert.</b>
 </p>
   
 ---
 
-On daily basis I'm RPA Developer responsible for automating processes (Python, VBA, SQL, API, SAPScripting) & LowCode development (Blue Prism, Power Apps, Power Automate). 
+On daily basis I'm RPA Developer responsible for automating processes & LowCode development. 
 
 ## 🔧 Technologies & Tools
 
 - Python
+- SQL
+- API
+- SAPScripting
+- VBA
+- Blue Prism, Power Apps, Power Automate
 
-In my free time I enjoy building stuff and explore new technologies.
+:watch: In my free time I enjoy building stuff and explore new technologies.
 
-Feel free to contact me if you have any suggestions to my repos or ideas!
+:bookmark_tabs: Feel free to contact me if you have any suggestions to my repos or ideas!
 
 ---
 
