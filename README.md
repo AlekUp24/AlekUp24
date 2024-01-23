@@ -1,6 +1,5 @@
-<p>
-## My name is Hubert.</b>
-</p>
+
+## My name is Hubert.
   
 ---
 
@@ -20,6 +19,8 @@ On daily basis I'm RPA Developer responsible for automating processes & LowCode 
 :bookmark_tabs: Feel free to contact me if you have any suggestions to my repos or ideas!
 
 ---
+
+## :chart_with_upwards_trend: Projects
 
 
   ![LeetCode Stats](https://leetcard.jacoblin.cool/AlekUp24?theme=dark&font=Amiko)</br></br>
