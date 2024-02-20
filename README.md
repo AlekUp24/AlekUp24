@@ -39,3 +39,10 @@ Technologies Used: Python
   ![LeetCode Stats](https://leetcard.jacoblin.cool/AlekUp24?theme=dark&font=Amiko)</br></br>
   
   ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=AlekUp24&theme=dark)</br>
+
+  <table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/akelup24/count.svg" alt="" /></td>
+  </tr>
+</table>
