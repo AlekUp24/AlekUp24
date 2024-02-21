@@ -44,7 +44,7 @@ Technologies Used: Python
 
   <table>
   <tr>
-    <td>You are visitor</td>
+    <td>You are visitor number: </td>
     <td><img src="https://profile-counter.glitch.me/akelup24/count.svg" alt="" /></td>
   </tr>
 </table>
