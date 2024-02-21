@@ -40,7 +40,7 @@ Technologies Used: Python
 
   ![LeetCode Stats](https://leetcard.jacoblin.cool/AlekUp24?theme=dark&font=Amiko)</br></br>
   
-  ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=AlekUp24&theme=dark)</br>
+  ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=AlekUp24&theme=dark)</br></br>
 
   <table>
   <tr>
