@@ -36,6 +36,8 @@ Algorithms in Python from different sources. For learning purposes.
 
 Technologies Used: Python
 
+## :chart_with_upwards_trend: Stats
+
   ![LeetCode Stats](https://leetcard.jacoblin.cool/AlekUp24?theme=dark&font=Amiko)</br></br>
   
   ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=AlekUp24&theme=dark)</br>
