@@ -24,7 +24,7 @@ On daily basis I'm RPA Developer responsible for automating processes & LowCode 
 
 ### [Complete_Projects](https://github.com/AlekUp24/Complete_Projects)
 To show projects I've been working on
-- [ToDo App](https://github.com/AlekUp24/Flask_Authentication_App) - with authentication in Flask (sqlite, Flask, Authentication, signup, login) - app to create your own to do list, mark complete, keep track of deadlines and see which tasks are overdue
+- [ToDo App](https://github.com/AlekUp24/Flask_My_One_Off_ToDo) - with authentication in Flask (sqlite, Flask, Authentication, signup, login) - app to create your own to do list, mark complete, keep track of deadlines and see which tasks are overdue
 - [Weather App](https://github.com/AlekUp24/Flask_Weather_App) - classic weather app based on API calls
 - [Folder Cleaner](https://github.com/AlekUp24/Complete_Projects/blob/main/FolderCleanerTool.py) - to move files to folders based on file type and last modification dates. Creates subfolders to keep everything nice and tide
 - [Mouse Mover](https://github.com/AlekUp24/Complete_Projects/blob/main/MouseMover.py) - to move mouse to prevent AFK. It can work in background and is activated after 10s of users inactivity. Stops when user moves mouse
