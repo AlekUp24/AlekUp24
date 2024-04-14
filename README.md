@@ -24,12 +24,12 @@ On daily basis I'm RPA Developer responsible for automating processes & LowCode 
 
 ### [Complete_Projects](https://github.com/AlekUp24/Complete_Projects)
 To show projects I've been working on
-- [ToDo App](https://github.com/AlekUp24/Flask_Authentication_App) with authentication in Flask (sqlite, Flask, Authentication, signup, login) - app to create your own to do list, mark complete, keep track of deadlines and see which tasks are overdue.
+- [ToDo App](https://github.com/AlekUp24/Flask_Authentication_App) - with authentication in Flask (sqlite, Flask, Authentication, signup, login) - app to create your own to do list, mark complete, keep track of deadlines and see which tasks are overdue
 - [Weather App](https://github.com/AlekUp24/Flask_Weather_App) - classic weather app based on API calls
-- [Folder Cleaner](https://github.com/AlekUp24/Complete_Projects/blob/main/FolderCleanerTool.py) (Move files to folders based on file type and last modification dates. Creates subfolders to keep everything nice and tide.)
-- [Mouse Mover](https://github.com/AlekUp24/Complete_Projects/blob/main/MouseMover.py) (Move mouse to prevent AFK. It can work in background and is activated after 10s of users inactivity. Stops when user moves mouse.)
-- [Basic Calculator](https://github.com/AlekUp24/Complete_Projects/blob/main/calculatorBasic.py) (TKinter basicis with some functions)
-- [Housing Market Bot](https://github.com/AlekUp24/Complete_Projects/blob/main/WebScraping%20Selenium/HousingMarketBot.py) (To get and store online listings of real estate in given city. Updated each run. Collect data to analyse it later. WORK IN PROGRESS)
+- [Folder Cleaner](https://github.com/AlekUp24/Complete_Projects/blob/main/FolderCleanerTool.py) - to move files to folders based on file type and last modification dates. Creates subfolders to keep everything nice and tide
+- [Mouse Mover](https://github.com/AlekUp24/Complete_Projects/blob/main/MouseMover.py) - to move mouse to prevent AFK. It can work in background and is activated after 10s of users inactivity. Stops when user moves mouse
+- [Basic Calculator](https://github.com/AlekUp24/Complete_Projects/blob/main/calculatorBasic.py) - had some fun with TKinter basicis and functions
+- [Housing Market Bot](https://github.com/AlekUp24/Complete_Projects/blob/main/WebScraping%20Selenium/HousingMarketBot.py) - to get and store online listings of real estate in given city. Updated each run. Collect data to analyse it later. WORK IN PROGRESS
 
 
 Technologies Used: Python
