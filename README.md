@@ -3,7 +3,7 @@
   
 ---
 
-I'm aspiring and passionate Python Developer with a love for building innovative solutions and contributing to the ever-evolving world of technology.
+:wave: I'm aspiring and passionate Python Developer with a love for building innovative solutions and contributing to the ever-evolving world of technology.
 
 ## :wrench: Technologies & Tools
 
