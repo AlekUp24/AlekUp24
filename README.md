@@ -3,16 +3,16 @@
   
 ---
 
-On daily basis I'm RPA Developer responsible for automating processes & LowCode development. 
+I'm aspiring Python Web Developer. 
 
 ## :wrench: Technologies & Tools
 
-- Python
-- SQL
-- API
-- SAPScripting
-- VBA
-- Blue Prism, Power Apps, Power Automate
+- Python 3.x
+- Flask, Django
+- ML with sklearn, pandas, matplotlib
+- Web scraping (selenium)
+- Databases (SMS, SQL, SqlAlchemy)
+- APIs
 
 :watch: In my free time I enjoy building stuff and explore new technologies.
 
