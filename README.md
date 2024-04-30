@@ -32,7 +32,7 @@ To show projects I've been working on
 - [Housing Market Bot](https://github.com/AlekUp24/Complete_Projects/blob/main/WebScraping%20Selenium/HousingMarketBot.py) - to get and store online listings of real estate in given city. Updated each run. Collect data to analyse it later. WORK IN PROGRESS
 
 
-## :notes: Other
+## :notebook: Other
 
 ### [Algorithms](https://github.com/AlekUp24/Algorithms)
 Algorithms in Python from different sources. For learning purposes.
