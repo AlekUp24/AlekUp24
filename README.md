@@ -1,7 +1,6 @@
 
 ## My name is [Hubert](https://alekup24.github.io/)
-  
----
+
 
 :wave: I'm aspiring and passionate Python Developer with a love for building innovative solutions and contributing to the ever-evolving world of technology.
 
