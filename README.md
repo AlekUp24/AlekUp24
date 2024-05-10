@@ -17,9 +17,9 @@
 
 :bookmark_tabs: Feel free to contact me if you have any suggestions to my repos or ideas!
 
----
 
 ## :rocket: Projects
+---
 
 ### [Complete_Projects](https://github.com/AlekUp24/Complete_Projects)
 To show projects I've been working on
