@@ -13,6 +13,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=django,fastapi,mongodb,docker,kubernetes,react,nodejs)
 
+
 :watch: In my free time I enjoy building stuff and explore new technologies.
 
 :bookmark_tabs: Feel free to contact me if you have any suggestions to my repos or ideas!
@@ -37,7 +38,6 @@ To show projects I've been working on
 Algorithms in Python from different sources. For learning purposes.
 
 Technologies Used: Python
-
 
 
 ## :chart_with_upwards_trend: Stats
