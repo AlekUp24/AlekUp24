@@ -39,12 +39,25 @@ Algorithms in Python from different sources. For learning purposes.
 
 Technologies Used: Python
 
+## Stuff I know 🤓
+
+![My Skills](https://skillicons.dev/icons?i=py,flask,git,github,html,css,bootstrap,js)
+
+## Want to learn 🧠
+
+![My Skills](https://skillicons.dev/icons?i=django,fastapi,mongodb,docker,kubernetes,react,nodejs)
+
 ## :chart_with_upwards_trend: Stats
 
   ![LeetCode Stats](https://leetcard.jacoblin.cool/AlekUp24?theme=dark&font=Amiko)</br></br>
   
   ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=AlekUp24&theme=dark)</br></br>
 
+  <span>
+  <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlekUp24&show_icons=true&locale=en&layout=compact&theme=transparent" alt="AlekUp24" /> 
+  </span>
+  </br></br>
+  
   <table>
   <tr>
     <td>You are visitor number: </td>
