@@ -1,5 +1,5 @@
 
-## My name is [Hubert](https://alekup24.github.io/).
+## My name is [Hubert](https://alekup24.github.io/)
   
 ---
 
@@ -7,12 +7,11 @@
 
 ## :wrench: Technologies & Tools
 
-- Python 3.x
-- Flask, Django
-- ML with sklearn, pandas, matplotlib
-- Web scraping (selenium)
-- Databases (SMS, SQL, SqlAlchemy)
-- APIs
+![My Skills](https://skillicons.dev/icons?i=py,flask,sqlite,selenium,sklearn,html,css,bootstrap,js,git,github,)
+
+## 🧠 Want to learn 
+
+![My Skills](https://skillicons.dev/icons?i=django,fastapi,mongodb,docker,kubernetes,react,nodejs)
 
 :watch: In my free time I enjoy building stuff and explore new technologies.
 
@@ -39,13 +38,7 @@ Algorithms in Python from different sources. For learning purposes.
 
 Technologies Used: Python
 
-## 🤓 Stuff I know 
 
-![My Skills](https://skillicons.dev/icons?i=py,flask,git,github,html,css,bootstrap,js)
-
-## 🧠 Want to learn 
-
-![My Skills](https://skillicons.dev/icons?i=django,fastapi,mongodb,docker,kubernetes,react,nodejs)
 
 ## :chart_with_upwards_trend: Stats
 
