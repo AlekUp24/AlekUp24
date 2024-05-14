@@ -6,7 +6,8 @@
 
 ## :wrench: Technologies & Tools
 
-![My Skills](https://skillicons.dev/icons?i=py,flask,sqlite,selenium,sklearn,html,css,bootstrap,js,git,github,)
+![My Skills](https://skillicons.dev/icons?i=py,flask,sqlite,selenium,sklearn)
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,git,github)
 
 ## :cyclone: Currently learning 
 
