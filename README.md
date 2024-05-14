@@ -8,9 +8,13 @@
 
 ![My Skills](https://skillicons.dev/icons?i=py,flask,sqlite,selenium,sklearn,html,css,bootstrap,js,git,github,)
 
+## :cyclone: Currently learning 
+
+![My Skills](https://skillicons.dev/icons?i=django,mongodb)
+
 ## 🧠 Want to learn 
 
-![My Skills](https://skillicons.dev/icons?i=django,fastapi,mongodb,docker,kubernetes,react,nodejs)
+![My Skills](https://skillicons.dev/icons?i=fastapi,docker,kubernetes,react,nodejs)
 
 
 :watch: In my free time I enjoy building stuff and explore new technologies.
