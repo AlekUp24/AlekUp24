@@ -53,7 +53,7 @@ Technologies Used: Python
 <span>
   <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlekUp24&show_icons=true&locale=en&layout=compact&theme=transparent" alt="AlekUp24" /> 
 </span></br>
-  
+<br>  
 <table>
   <tr>
     <td>You are visitor number: </td>
