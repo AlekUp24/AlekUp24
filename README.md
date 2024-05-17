@@ -48,10 +48,7 @@ Technologies Used: Python
 
 ## :chart_with_upwards_trend: Stats
 
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/AlekUp24?theme=dark&font=Amiko)</br>
-  
-  ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=AlekUp24&theme=dark)</br>
-
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/AlekUp24?theme=dark&font=Amiko)  
 <span>
   <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlekUp24&show_icons=true&locale=en&layout=compact&theme=transparent" alt="AlekUp24" /> 
 </span></br>
