@@ -1,5 +1,5 @@
 
-## My name is [Hubert](https://alekup24.github.io/)
+## My name is [Hubert] (https://alekup24#github#io/)
 
 
 :wave: I'm aspiring and passionate Python Developer with a love for building innovative solutions and contributing to the ever-evolving world of technology.
@@ -7,7 +7,7 @@
 ## :wrench: Technologies & Tools
 
 ![My Skills](https://skillicons.dev/icons?i=py,flask,sqlite,selenium,sklearn) <br>
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,git,github)
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,git)
 
 ## :cyclone: Currently learning 
 
