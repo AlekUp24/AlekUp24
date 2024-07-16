@@ -8,16 +8,16 @@
 
 ## :wrench: Technologies & Tools
 
-![My Skills](https://skillicons.dev/icons?i=py,flask,sqlite,selenium,sklearn) <br>
+![My Skills](https://skillicons.dev/icons?i=py,django,flask,sqlite,selenium) <br>
 ![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,git)
 
 ## :cyclone: Currently learning 
 
-![My Skills](https://skillicons.dev/icons?i=django,mongodb)
+![My Skills](https://skillicons.dev/icons?i=docker,mongodb)
 
 ## 🧠 Want to learn 
 
-![My Skills](https://skillicons.dev/icons?i=fastapi,docker,kubernetes,react,nodejs)
+![My Skills](https://skillicons.dev/icons?i=fastapi,kubernetes,react,nodejs)
 
 
 :watch: In my free time I enjoy building stuff and explore new technologies.
