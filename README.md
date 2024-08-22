@@ -13,7 +13,7 @@
 
 ## :cyclone: Currently learning 
 
-![My Skills](https://skillicons.dev/icons?i=cs,docker,mongodb)
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,docker,mongodb)
 
 ## 🧠 Want to learn 
 
