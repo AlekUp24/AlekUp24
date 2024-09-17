@@ -4,21 +4,15 @@
 <!-- [Hubert](https://alekup24.github.io/)-->
 
 
-:wave: I'm aspiring and passionate Python Developer with a love for building innovative solutions and contributing to the ever-evolving world of technology.
+:wave: I'm aspiring and passionate developer with a love for building innovative solutions and contributing to the ever-evolving world of technology.
 
 ## :wrench: Technologies & Tools
 
-![My Skills](https://skillicons.dev/icons?i=py,django,flask,sqlite,selenium) <br>
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,git)
+![My Skills](https://skillicons.dev/icons?i=py,django,flask,git) <br>
 
 ## :cyclone: Currently learning 
 
-![My Skills](https://skillicons.dev/icons?i=docker,mongodb)
-
-## 🧠 Want to learn 
-
-![My Skills](https://skillicons.dev/icons?i=fastapi,kubernetes,react,nodejs)
-
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure)
 
 :watch: In my free time I enjoy building stuff and explore new technologies.
 
