@@ -8,7 +8,7 @@
 
 ## :wrench: Technologies & Tools
 
-![My Skills](https://skillicons.dev/icons?i=py,django,flask,git) <br>
+![My Skills](https://skillicons.dev/icons?i=py,django,flask,git)
 
 ## :cyclone: Currently learning 
 
