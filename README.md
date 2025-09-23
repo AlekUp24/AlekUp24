@@ -21,21 +21,6 @@
 
 ---
 
-
-## :rocket: Projects
-
-To see projects I've been working on visit:
-https://alekup24.github.io/
-
-
-## :pencil: Other
-
-### [Algorithms](https://github.com/AlekUp24/Algorithms)
-Algorithms in Python from different sources. For learning purposes.
-
-Technologies Used: Python
-
-
 ## :chart_with_upwards_trend: Stats
 
   ![LeetCode Stats](https://leetcard.jacoblin.cool/AlekUp24?theme=dark&font=Amiko)<br>
