@@ -8,11 +8,11 @@
 
 ## :wrench: Technologies & Tools
 
-![My Skills](https://skillicons.dev/icons?i=py,django,flask,git)
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,py,django)
 
 ## :cyclone: Currently learning 
 
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure)
+![My Skills](https://skillicons.dev/icons?i=angular)
 
 :watch: In my free time I enjoy building stuff and explore new technologies.
 
