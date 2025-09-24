@@ -10,10 +10,11 @@
 
 ![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,py,django)
 
+<!--
 ## :cyclone: Currently learning 
 
 ![My Skills](https://skillicons.dev/icons?i=angular)
-
+-->
 :watch: In my free time I enjoy building stuff and explore new technologies.
 
 :bookmark_tabs: Feel free to contact me if you have any suggestions to my repos or ideas!
