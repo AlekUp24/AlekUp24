@@ -21,13 +21,13 @@
 
 :bookmark_tabs: Feel free to contact me if you have any suggestions to my repos or ideas!
 
--->
+
 
 ## :chart_with_upwards_trend: Stats
 
   ![LeetCode Stats](https://leetcard.jacoblin.cool/AlekUp24?theme=dark&font=Amiko)
 
-<!--
+
 <span>
   <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlekUp24&show_icons=true&locale=en&layout=compact&theme=transparent" alt="AlekUp24" /> 
 </span></br>
